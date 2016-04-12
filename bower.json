@@ -1,0 +1,9 @@
+{
+  "name": "linkedin-job-filter-chrome-extension",
+  "private": true,
+  "version": "0.0.0",
+  "dependencies": {
+    "jquery": "2.2.3"
+  },
+  "devDependencies": {}
+}
