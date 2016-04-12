@@ -18,10 +18,10 @@
  *   - "Jobs you may be interested in"
  * - Hide posts which don't contain whitelisted content (mostly spam)
  * - Hide shared images (mostly spam)
- * - Display blocked posts counter
+ * - Display number of blocked posts
  *
- * Note: This extension is an experiment and can potentially remove posts
- * which are of your interest. Use at your own risk.
+ * Note: This extension is an experiment and can potentially hide posts
+ * which are of your interest. Use it at your own risk.
  *
  * We also recommend uBlock Origin - Chrome Extension for advert blocking.
  * See here: https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en
@@ -119,7 +119,7 @@ var pageCounter = $(`
     </p>
     <br>
     <p class="ljf-muted">
-      Thanks for using <a href="#" target="_blank">LinkedIn Job Filter</a>.
+      Thanks for using <a href="https://chrome.google.com/webstore/detail/linkedin-job-filter/bnlngcoijeeepjajfgciinhknhgekmhf/" target="_blank">LinkedIn Job Filter</a>.
     </p>
   </li>
 `);
